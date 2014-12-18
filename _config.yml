@@ -2,8 +2,8 @@
 title: Teaching Ideas
 email: stevekellett@gemsdaa.net
 description: Super Duper Education Blog 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://stevekellett.com"
+baseurl: 
+url: http://stevekellett.com
 twitter_username: stevekellett	
 github_username:  stevekellett
 avatar: https://avatars2.githubusercontent.com/u/10191494?v=3&s=460
